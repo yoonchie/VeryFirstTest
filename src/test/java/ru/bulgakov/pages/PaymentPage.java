@@ -28,5 +28,4 @@ public class PaymentPage {
     public void thePriceIsCorrect(String query){
         price.shouldHave(text(query));
     }
-
 }

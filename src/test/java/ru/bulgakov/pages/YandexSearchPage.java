@@ -19,4 +19,5 @@ public class YandexSearchPage {
 
         return new YandexSearchResultPage();
     }
+
 }

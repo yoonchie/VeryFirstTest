@@ -23,7 +23,6 @@ public class QaTest {
                 .thePriceIsCorrect("₽ 47 000.00");
     }
 
-
     @Test
     void findRepositoryOnGitHub(){
 

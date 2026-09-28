@@ -23,5 +23,4 @@ public class YandexSearchResultPage {
 
         return new AboutStudyPage();
     }
-
 }
